@@ -1,0 +1,16 @@
+{
+  "name": "testmodule",
+  "version": "1.0.0",
+  "description": "teste do modulo",
+  "main": "index.js",
+  "scripts": {
+    "test": "tsc"
+  },
+  "keywords": [
+    "test",
+    "module",
+    "systemjs"
+  ],
+  "author": "Junior",
+  "license": "ISC"
+}
